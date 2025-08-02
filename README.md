@@ -1,2 +1,4 @@
 # Loan-Prediction-
-Predicts loan approval using Logistic Regression based on applicant data like income and credit history. Includes data cleaning, EDA, model training, and evaluation with accuracy and ROC-AUC. Built with Python, Pandas, Scikit-learn. Future plan: deploy as a web app using Flask.
+A machine learning web app to predict loan approval using Random Forest and Logistic Regression. Includes data cleaning, EDA, model training, and evaluation. Built with Python, Pandas, Scikit-learn, and deployed using Streamlit for interactive prediction and analysis.
+
+
